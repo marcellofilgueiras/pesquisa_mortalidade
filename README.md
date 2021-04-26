@@ -10,3 +10,5 @@ Pergunta: "O COVID levou a um aumento nas mortalidade de outras doenças?"
 
 Objeto Inicial da Análise: Uns trem gástrico, que dá na barriga ali entre o saco e o pulmão, por falta de cirurgia.
 
+Comparação da mortalidade em 2020 vs outros Anos usando as bases do Open Data Sus.
+
